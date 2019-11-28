@@ -8,9 +8,6 @@ permalink: /
 
 # Lehrbuch Öffentlicher Gesundheitsdienst
 
-
-# hello world 3
-
 Fachleute aus unterschiedlichen Bereichen im ÖGD, gemeinsam mit
 Lehrenden der Akademie, haben ab 2019 in sogenannten “Book Sprint” in
 gemeinsamer Autorenschaft Texte für diese Lehrbuchreihe verfasst.
