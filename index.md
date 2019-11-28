@@ -5,7 +5,6 @@ nav_order: 1
 permalink: /
 ---
 
-
 # Lehrbuch Öffentlicher Gesundheitsdienst
 
 Fachleute aus unterschiedlichen Bereichen im ÖGD, gemeinsam mit
